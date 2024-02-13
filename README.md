@@ -37,7 +37,6 @@ git push origin production
 This ensures that the changes from the production branch are added to the new branches at creation time.
 
 ```bash
-git checkout production
 git branch hot-fix
 git branch integration
 ```
